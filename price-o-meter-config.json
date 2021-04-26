@@ -1,0 +1,16 @@
+{
+  "contracts": [
+	"KT1QxLqukyfohPV5kPkw97Rs6cw1DDDvYgbB"
+  ],
+  "nodes": [
+	"mainnet-tezos.giganode.io",
+	"mainnet.smartpy.io",
+	"rpc.tzbeta.net",
+	"api.tez.ie/rpc/mainnet",
+	"teznode.letzbake.com"
+  ],
+  "schema": {
+	"hdao": [1, 0, 3],
+	"tez": [1, 0, 1, 2]
+  }
+}

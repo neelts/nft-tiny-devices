@@ -1,0 +1,7 @@
+{
+  "name": "nft-tiny-devices",
+  "version": "0.0.0",
+  "devDependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}

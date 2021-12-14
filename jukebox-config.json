@@ -1,7 +1,6 @@
 {
   "ipfs": "https://ipfs.io/ipfs/",
   "hicdex": "https://api.hicdex.com/v1/graphql",
-  "source": "https://raw.githubusercontent.com/neelts/nft-tiny-devices/main/test.js",
   "chars": {
     "0": "---+-+-+-++--++-+-+-+---",
     "1": "++--+--------------+---+",

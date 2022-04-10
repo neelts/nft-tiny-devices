@@ -1,5 +1,6 @@
 {
   "logos": "https://raw.githubusercontent.com/teia-community/teia-logos/main/dist/logos.json",
+  "path": "https://raw.githubusercontent.com/teia-community/teia-logos/main/dist/logos/dark/",
   "chars": {
     "a": "--+---++--++++--+-+-+---",
     "b": "-+-+--+-+-+-+-+-+-+--+-+",

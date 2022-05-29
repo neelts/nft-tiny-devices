@@ -6,18 +6,21 @@
     {
       "name": "rhod",
       "contract": "KT1VikAWA8wQHLZgHoAGL7Z9kCjgbCEnvWA3",
+      "inventory": "https://ui.8bidou.com/item_r/?id={id}",
       "size": 24,
       "rgb_bytes": true
     },
     {
       "name": "gine",
       "contract": "KT1TR1ErEQPTdtaJ7hbvKTJSa1tsGnHGZTpf",
+      "inventory": "https://ui.8bidou.com/item_g/?id={id}",
       "size": 24,
       "rgb_bytes": true
     },
     {
       "name": "8bid",
       "contract": "KT1MxDwChiDwd6WBVs24g1NjERUoK622ZEFp",
+      "inventory": "https://ui.8bidou.com/item/?id={id}",
       "size": 8
     }
   ],

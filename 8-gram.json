@@ -77,5 +77,6 @@
     "~": "+++++++++"
   },
   "scroll": 8,
+  "ft": 100,
   "desc": "Made with 8-gram Tiny Device by teia.art/neelts"
 }

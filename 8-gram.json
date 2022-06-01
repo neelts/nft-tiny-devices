@@ -1,4 +1,5 @@
 ﻿{
+  "token_id": 740876,
   "tzp_api": "https://indexer.tzprofiles.com/v1/graphql",
   "hen_api": "https://api.teia.rocks/v1/graphql",
   "fee": 0.1,

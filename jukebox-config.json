@@ -1,6 +1,6 @@
 {
   "ipfs": "https://ipfs.io/ipfs/",
-  "hicdex": "https://api.teia.rocks/v1/graphql",
+  "hicdex": "https://api.hicdex.com/v1/graphql",
   "chars": {
     "0": "---+-+-+-++--++-+-+-+---",
     "1": "++--+--------------+---+",
